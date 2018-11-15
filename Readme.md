@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CompoundAreaChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/CompoundAreaChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a full-stacked area chart
 
 
